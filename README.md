@@ -9,7 +9,8 @@ Ao clicar no ícone desse plugin, ele abre o Formulário de Atributos da camada 
 # Falta implementar:  
   1. Inclusão do ícone no mesmo grupo do avenza_kmz_importer, na barra de ferramentas;
   2. Inclusão do ícone no menu **Avenza Maps's KML/KMZ File Importer**, no menu Complementos:
-  3. ![image](https://github.com/user-attachments/assets/24e3c087-f65c-4760-99cf-084e492b1399)
+ ![image](https://github.com/user-attachments/assets/24e3c087-f65c-4760-99cf-084e492b1399)
+  3. Alteração do grafismo do ícone.
 
 ---
 <a name="tasks">
@@ -22,5 +23,7 @@ Ao clicar no ícone desse plugin, ele abre o Formulário de Atributos da camada 
 When clicking on this plugin's icon, it opens the Attribute Form of the active vector layer - if there is any feature within it - and it is possible to see the images linked to each feature.
 
 # Remains to implement:
-1. Inclusion of the icon in the same group as avenza_kmz_importer, in the toolbar; 2. Adding the icon to the **Avenza Maps's KML/KMZ File Importer** menu, in the Add-ons menu:
-3. ![image](https://github.com/user-attachments/assets/24e3c087-f65c-4760-99cf-084e492b1399)
+1. Inclusion of the icon in the same group as avenza_kmz_importer, in the toolbar;
+2. 2. Adding the icon to the **Avenza Maps's KML/KMZ File Importer** menu, in the Add-ons menu:
+![image](https://github.com/user-attachments/assets/24e3c087-f65c-4760-99cf-084e492b1399)
+3. Changing the graphics of the plugin icon.
